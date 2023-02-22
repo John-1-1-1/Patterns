@@ -1,0 +1,15 @@
+C:\Users\john_\OneDrive\Документы\GitHub\Patterns\AbstructFactory1\bin\Debug\net7.0\AbstructFactory1.exe
+C:\Users\john_\OneDrive\Документы\GitHub\Patterns\AbstructFactory1\bin\Debug\net7.0\AbstructFactory1.deps.json
+C:\Users\john_\OneDrive\Документы\GitHub\Patterns\AbstructFactory1\bin\Debug\net7.0\AbstructFactory1.runtimeconfig.json
+C:\Users\john_\OneDrive\Документы\GitHub\Patterns\AbstructFactory1\bin\Debug\net7.0\AbstructFactory1.dll
+C:\Users\john_\OneDrive\Документы\GitHub\Patterns\AbstructFactory1\bin\Debug\net7.0\AbstructFactory1.pdb
+C:\Users\john_\OneDrive\Документы\GitHub\Patterns\AbstructFactory1\obj\Debug\net7.0\AbstructFactory1.csproj.AssemblyReference.cache
+C:\Users\john_\OneDrive\Документы\GitHub\Patterns\AbstructFactory1\obj\Debug\net7.0\AbstructFactory1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\john_\OneDrive\Документы\GitHub\Patterns\AbstructFactory1\obj\Debug\net7.0\AbstructFactory1.AssemblyInfoInputs.cache
+C:\Users\john_\OneDrive\Документы\GitHub\Patterns\AbstructFactory1\obj\Debug\net7.0\AbstructFactory1.AssemblyInfo.cs
+C:\Users\john_\OneDrive\Документы\GitHub\Patterns\AbstructFactory1\obj\Debug\net7.0\AbstructFactory1.csproj.CoreCompileInputs.cache
+C:\Users\john_\OneDrive\Документы\GitHub\Patterns\AbstructFactory1\obj\Debug\net7.0\AbstructFactory1.dll
+C:\Users\john_\OneDrive\Документы\GitHub\Patterns\AbstructFactory1\obj\Debug\net7.0\refint\AbstructFactory1.dll
+C:\Users\john_\OneDrive\Документы\GitHub\Patterns\AbstructFactory1\obj\Debug\net7.0\AbstructFactory1.pdb
+C:\Users\john_\OneDrive\Документы\GitHub\Patterns\AbstructFactory1\obj\Debug\net7.0\AbstructFactory1.genruntimeconfig.cache
+C:\Users\john_\OneDrive\Документы\GitHub\Patterns\AbstructFactory1\obj\Debug\net7.0\ref\AbstructFactory1.dll

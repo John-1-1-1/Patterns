@@ -1,0 +1,48 @@
+﻿@startuml
+
+interface ILogistics
+{
+    + void CreateTransport();
+    + ITransport? Transport { get; }
+}
+
+class SeaLogistics
+{
+    + ITransport? Transport { get; private set; }
+    + void CreateTransport();
+}
+
+ILogistics <-down-SeaLogistics 
+
+class RoadLogistics
+{
+    + ITransport? Transport { get; private set; }
+    + void CreateTransport();
+}
+
+RoadLogistics -up-> ILogistics
+
+interface ITransport
+{
+    + void Deliver();
+}
+
+class Ship 
+{
+    + void Deliver();
+}
+
+Ship -down-> ITransport
+
+class Truck 
+{
+    + void Deliver();
+}
+
+Truck -down-> ITransport
+
+Truck<-up- RoadLogistics
+
+Ship<-up- SeaLogistics
+
+@enduml
