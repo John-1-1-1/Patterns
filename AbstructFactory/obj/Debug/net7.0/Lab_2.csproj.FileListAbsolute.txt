@@ -1,0 +1,15 @@
+/home/john/RiderProjects/patternyProektirovania/Lab_2/bin/Debug/net7.0/Lab_2
+/home/john/RiderProjects/patternyProektirovania/Lab_2/bin/Debug/net7.0/Lab_2.deps.json
+/home/john/RiderProjects/patternyProektirovania/Lab_2/bin/Debug/net7.0/Lab_2.runtimeconfig.json
+/home/john/RiderProjects/patternyProektirovania/Lab_2/bin/Debug/net7.0/Lab_2.dll
+/home/john/RiderProjects/patternyProektirovania/Lab_2/bin/Debug/net7.0/Lab_2.pdb
+/home/john/RiderProjects/patternyProektirovania/Lab_2/obj/Debug/net7.0/Lab_2.csproj.AssemblyReference.cache
+/home/john/RiderProjects/patternyProektirovania/Lab_2/obj/Debug/net7.0/Lab_2.GeneratedMSBuildEditorConfig.editorconfig
+/home/john/RiderProjects/patternyProektirovania/Lab_2/obj/Debug/net7.0/Lab_2.AssemblyInfoInputs.cache
+/home/john/RiderProjects/patternyProektirovania/Lab_2/obj/Debug/net7.0/Lab_2.AssemblyInfo.cs
+/home/john/RiderProjects/patternyProektirovania/Lab_2/obj/Debug/net7.0/Lab_2.csproj.CoreCompileInputs.cache
+/home/john/RiderProjects/patternyProektirovania/Lab_2/obj/Debug/net7.0/Lab_2.dll
+/home/john/RiderProjects/patternyProektirovania/Lab_2/obj/Debug/net7.0/refint/Lab_2.dll
+/home/john/RiderProjects/patternyProektirovania/Lab_2/obj/Debug/net7.0/Lab_2.pdb
+/home/john/RiderProjects/patternyProektirovania/Lab_2/obj/Debug/net7.0/Lab_2.genruntimeconfig.cache
+/home/john/RiderProjects/patternyProektirovania/Lab_2/obj/Debug/net7.0/ref/Lab_2.dll
